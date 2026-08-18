@@ -1,0 +1,38 @@
+<svg width="900" height="350" viewBox="0 0 900 350" xmlns="http://www.w3.org/2000/svg" style="font-family:Arial, sans-serif">
+
+  <!-- AI System -->
+  <rect x="40" y="40" width="230" height="90" rx="12" fill="#3B82F6" stroke="#1E40AF" stroke-width="2"/>
+  <text x="155" y="80" text-anchor="middle" fill="white" font-size="20">AI System</text>
+  <text x="155" y="105" text-anchor="middle" fill="white" font-size="14">(LLM, Agents, Tools)</text>
+
+  <!-- Arrow 1 -->
+  <line x1="270" y1="85" x2="360" y2="85" stroke="#111" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- ScriptableObjects -->
+  <rect x="360" y="40" width="230" height="90" rx="12" fill="#F59E0B" stroke="#B45309" stroke-width="2"/>
+  <text x="475" y="80" text-anchor="middle" fill="white" font-size="20">ScriptableObjects</text>
+  <text x="475" y="105" text-anchor="middle" fill="white" font-size="14">(AI-generated data)</text>
+
+  <!-- Arrow 2 -->
+  <line x1="590" y1="85" x2="680" y2="85" stroke="#111" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- Editor Inspectors -->
+  <rect x="680" y="40" width="230" height="90" rx="12" fill="#10B981" stroke="#065F46" stroke-width="2"/>
+  <text x="795" y="80" text-anchor="middle" fill="white" font-size="20">Editor Inspectors</text>
+  <text x="795" y="105" text-anchor="middle" fill="white" font-size="14">(Review & Tweak)</text>
+
+  <!-- Arrow 3 (down) -->
+  <line x1="795" y1="130" x2="795" y2="200" stroke="#111" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- Gameplay Experience -->
+  <rect x="560" y="200" width="470" height="110" rx="12" fill="#8B5CF6" stroke="#5B21B6" stroke-width="2"/>
+  <text x="795" y="245" text-anchor="middle" fill="white" font-size="22">Gameplay Experience</text>
+  <text x="795" y="275" text-anchor="middle" fill="white" font-size="14">(Generated, Prototyped & Iterated)</text>
+
+  <!-- Arrow Definition -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="4" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#111"/>
+    </marker>
+  </defs>
+</svg>
