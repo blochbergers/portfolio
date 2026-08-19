@@ -13,6 +13,7 @@
         </section>
 
         <nav class="project-nav">
+            <a href="#gameplay-video">Gameplay Video</a>
             <a href="#overview">Overview</a>
             <a href="#design-problem">Design Challenge</a>
             <a href="#gameplay">Gameplay Systems</a>
@@ -22,15 +23,19 @@
 
         <main>
 
+          <section id="gameplay-video">
+			  <h2>Gameplay Video</h2>
+			  <p class="tagline">
+				  GET THE CAT A SCRATCHING POST is an PC game, self-help book,
+                    and Montreal Mile-End indie art project all packaged into one
+                    MS paint cat phone.
+			  </p>
+			  <iframe width="100%" height="500px" src="https://www.youtube.com/watch?v=7f7iffjHe3M" title="GET THE CAT A SCRATCHING POST INTRO AND CHAPTER 1 DEMO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+		  </section>
+
             <section id="overview">
 
                 <h2>Project Overview</h2>
-
-                <p>
-                    GET THE CAT A SCRATCHING POST is an PC game, self-help book,
-                    and Montreal Mile-End indie art project all packaged into one
-                    MS paint cat phone.
-                </p>
 
                 <p>
                     GET THE CAT A SCRATCHING POST is about the idea that one can't
