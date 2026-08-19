@@ -18,12 +18,12 @@
                         Virtual Bioengineering Lab Safety
                     </RouterLink>
 
-                    <RouterLink to="/mineral-processor-simulation">
-                        Mineral Processor Simulation
+                    <RouterLink to="/imminent">
+                        Imminent
                     </RouterLink>
 
-                    <RouterLink to="/unity-training">
-                        Unity Training for McGill Grad Students
+                    <RouterLink to="/get-the-cat-a-scratching-post">
+                        GET THE CAT A SCRATCHING POST
                     </RouterLink>
 
                     <div class="nav-dropdown">
@@ -42,13 +42,14 @@
                                 LexiConcordia
                             </RouterLink>
 
-                            <RouterLink to="/imminent">
-                                Imminent
+                            <RouterLink to="/mineral-processor-simulation">
+                                Mineral Processor Simulation
                             </RouterLink>
 
-                            <RouterLink to="/get-the-cat-a-scratching-post">
-                                GET THE CAT A SCRATCHING POST
+                            <RouterLink to="/unity-training">
+                                Unity Training for McGill Grad Students
                             </RouterLink>
+
                         </div>
                     </div>
 
