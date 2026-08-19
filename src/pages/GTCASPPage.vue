@@ -14,11 +14,11 @@
 
         <nav class="project-nav">
             <a href="#gameplay-video">Gameplay Video</a>
-            <a href="#overview">Overview</a>
+            <a href="#overview">What's this?/a>
             <a href="#design-problem">Design Challenge</a>
             <a href="#gameplay">Gameplay Systems</a>
             <a href="#world-design">World Design</a>
-            <a href="#takeaways">Takeaways</a>
+            <a href="#landline">Meet Landline</a>
         </nav>
 
         <main>
@@ -36,31 +36,42 @@
 
             <section id="overview">
 
-                <h2>Project Overview</h2>
+                <h2>What's This?</h2>
 
-                <p>
-                    GET THE CAT A SCRATCHING POST is about the idea that one can't
-                    solve social media addiction without finding out what itches
-                    they're scratching by being on social media and finding
-                    replacements. It's about realizing how much of centralized
-                    algorithmic social media is owned by the richest people in the
-                    world and finding ways to cut back without losing our connection
-                    with each other. It's about learning to exist outside of a screen
-                    when you never learned how, in a world that has made it
-                    increasingly more difficult to be offline. It's about recognizing
-                    how much Internet culture turned me into a cynical little asshole
-                    and trying to be a positive and community oriented person instead.
-                    It's about meeting in safe, accessible, and free third spaces to
-                    build community solidarity, and advocating for more third spaces.
-                </p>
+				<div class="two-col">
 
-                <p>
-                    I'm sharing my story about how growing up "terminally online"
-                    led to low self-esteem and made my anxiety disorder worse. I'm
-                    not here to wag my finger at people using social media and enjoy
-                    it, but extend a hand to those of us who don't enjoy it but keep
-                    finding ourselves there anyway.
-                </p>
+                    <div>
+
+		                <p>
+		                    GET THE CAT A SCRATCHING POST is about the idea that one can't
+		                    solve social media addiction without finding out what itches
+		                    they're scratching by being on social media and finding
+		                    replacements. It's about realizing how much of centralized
+		                    algorithmic social media is owned by the richest people in the
+		                    world and finding ways to cut back without losing our connection
+		                    with each other. It's about learning to exist outside of a screen
+		                    when you never learned how, in a world that has made it
+		                    increasingly more difficult to be offline. It's about recognizing
+		                    how much Internet culture turned me into a cynical person
+		                    and trying to be a positive and community oriented person instead.
+		                    It's about meeting in safe, accessible, and free third spaces to
+		                    build community solidarity, and advocating for more third spaces.
+		                </p>
+		
+		                <p>
+		                    I'm sharing my story about how growing up "terminally online"
+		                    led to low self-esteem and made my anxiety disorder worse. I'm
+		                    not here to wag my finger at people using social media and enjoy
+		                    it, but extend a hand to those of us who don't enjoy it but keep
+		                    finding ourselves there anyway.
+		                </p>
+					</div>
+					<div>
+						<div class="placeholder">
+						  	<img src="../assets/nogenai.png" alt="Landline, a red cat drawn in MS Paint." style="width:100%; border-radius:12px;"></img>
+						</div>
+					</div>
+				</div>
 
             </section>
 
@@ -68,10 +79,6 @@
             <section id="design-problem">
 
                 <h2>Design</h2>
-
-                <p class="tagline">
-                    How do you make a game about a habit instead of an enemy?
-                </p>
 
                 <div class="two-col">
 
@@ -81,6 +88,13 @@
                             The game is essentially a visual novel. Design focuses on the artistry of the environment, 
                             and contrasting a calm, peaceful environment with a messy one.
                             The main design mechanics center around 3D modelling (Blender, Autodesk Maya) and VFX. 
+                        </p>
+
+						<p>
+                            While I originally thought about commissioning an artist for the art assets, I fell in love
+							with the MS paint cat I had as a placeholder. You can think of it as a point that art is 
+							accessible even if you have very little practice in 2D art like me, and you don't need Gen AI
+							to do it.
                         </p>
                     </div>
 
@@ -167,43 +181,15 @@
 
             </section>
 
-            <section id="takeaways">
+            <section id="landline">
 
-                <h2>What This Project Demonstrates</h2>
+                <h2>Meet Landline</h2>
 
-                <div class="results-grid">
-
-                    <div class="result-card">
-                        <h3>Narrative Design</h3>
-                        <p>
-                            Translating personal experiences and abstract ideas into
-                            interactive storytelling.
-                        </p>
-                    </div>
-
-                    <div class="result-card">
-                        <h3>Systems Design</h3>
-                        <p>
-                            Building mechanics that reinforce themes rather than
-                            existing separately from them.
-                        </p>
-                    </div>
-
-                    <div class="result-card">
-                        <h3>Unity Development</h3>
-                        <p>
-                            End-to-end implementation including programming,
-                            interaction systems, UI, and content integration.
-                        </p>
-                    </div>
-
-                    <div class="result-card">
-                        <h3>Creative Direction</h3>
-                        <p>
-                            Establishing a distinct visual identity and voice for
-                            an unconventional indie project.
-                        </p>
-                    </div>
+				<p>
+					Landline says: "Meow," which roughly translates to "we can't build community solidarity if we only talk about our landlord problems with ChatGPT."
+					a red cat that is also a landline phone
+					Landline is the daughter of a cat and a AT&T CL84107 DECT 6.0 Expandable Corded Phone. She was born in the 1960's in Nunavik, and due to a accidentally injesting some space rock while exploring the Pingualuit crater, she is now immortal, invincible, and can shoot lasers out of her eyes. 
+				</p>
 
                 </div>
 
