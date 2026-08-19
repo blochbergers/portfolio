@@ -14,7 +14,7 @@
 
         <nav class="project-nav">
             <a href="#gameplay-video">Gameplay Video</a>
-            <a href="#overview">What's this?/a>
+            <a href="#overview">What's this?</a>
             <a href="#design-problem">Design Challenge</a>
             <a href="#gameplay">Gameplay Systems</a>
             <a href="#world-design">World Design</a>
