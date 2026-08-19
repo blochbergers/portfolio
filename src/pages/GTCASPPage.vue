@@ -30,7 +30,7 @@
                     and Montreal Mile-End indie art project all packaged into one
                     MS paint cat phone.
 			  </p>
-			  <iframe width="100%" height="500px" src="https://www.youtube.com/watch?v=7f7iffjHe3M" title="GET THE CAT A SCRATCHING POST INTRO AND CHAPTER 1 DEMO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+			  <iframe width="100%" height="500px" src="https://www.youtube.com/embed/7f7iffjHe3M" title="GET THE CAT A SCRATCHING POST INTRO AND CHAPTER 1 DEMO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 		 	  <iframe frameborder="0" src="https://itch.io/embed/4851247" width="552" height="167"><a href="https://blochbergerspecials.itch.io/get-the-cat-a-scratching-post">GET THE CAT A SCRATCHING POST: HOW I STOPPED SCROLLING (DEMO) by blochbergerspecials</a></iframe>
 		  </section>
 
