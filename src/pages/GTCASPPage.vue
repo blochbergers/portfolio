@@ -85,8 +85,8 @@
                     </div>
 
                     <div class="placeholder">
-                        Screenshot Placeholder
-                    </div>
+						  <img src="../assets/landline.png" alt="Landline, a red cat drawn in MS Paint." style="width:100%; border-radius:12px;"></img>
+					</div>
 
                 </div>
 
@@ -158,9 +158,10 @@
 
                     </div>
 
+
                     <div class="placeholder">
-                        Screenshot Placeholder
-                    </div>
+						  <img src="../assets/influences.png" alt="Screenshot of books and toys from the game Get The Cat A Scratching Post." style="width:100%; border-radius:12px;"></img>
+					</div>
 
                 </div>
 
