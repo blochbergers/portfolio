@@ -191,8 +191,6 @@
 					Landline is the daughter of a cat and a AT&T CL84107 DECT 6.0 Expandable Corded Phone. She was born in the 1960's in Nunavik, and due to a accidentally injesting some space rock while exploring the Pingualuit crater, she is now immortal, invincible, and can shoot lasers out of her eyes. 
 				</p>
 
-                </div>
-
             </section>
 
         </main>
