@@ -2,7 +2,7 @@
   <div class="page about-page">
     <h2>About</h2>
 			  <p class="tagline">
-				I am a web and software developer with an interest in educational technology, game development, audio, and machine learning. I am currently on a contract with McGill University until the end of December 2025. I'm looking for my next opportunity in software development.
+				I am a game developer looking for new projects. I have extensive experience in Unity as well as 3D modelling and sound design. Contact my business email at blochbergerspecials@proton.me with inquiries. 
 			  </p>
 			  <div class="two-col">
 				  <div>
@@ -13,7 +13,6 @@
 						  <li>HTML/CSS/Javascript</li>
 						  <li>C#</li>
 						  <li>Python</li>
-						  <li>Machine Learning/NLP</li>
 					  </ul>
 				  </div>
 				  <div>
@@ -24,9 +23,10 @@
 						  <li>Unity</li>
 						  <li>Adobe Photoshop & Photopea</li>
 						  <li>Autodesk Maya & Tinkercad</li>
-						  <li>Jira</li>
+						  <li>Blender</li>
 						  <li>GitHub</li>
-						  <li>FMOD/FL Studio</li>
+						  <li>FL Studio</li>
+						  <li>FMOD</li>
 					  </ul>
 				  </div>
 			  </div>
