@@ -4,7 +4,7 @@
             <div class="app-header-inner">
                 <h1 class="site-title">Bee Blochberger</h1>
                 <p class="site-subtitle">
-                    Game Developer
+                    Game Developer - blochbergerspecials@proton.me
                 </p>
             </div>
 
