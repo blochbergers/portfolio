@@ -17,7 +17,6 @@
             <a href="#design-problem">Design Challenge</a>
             <a href="#gameplay">Gameplay Systems</a>
             <a href="#world-design">World Design</a>
-            <a href="#development">Development</a>
             <a href="#takeaways">Takeaways</a>
         </nav>
 
@@ -62,7 +61,7 @@
 
             <section id="design-problem">
 
-                <h2>Design Challenge</h2>
+                <h2>Design</h2>
 
                 <p class="tagline">
                     How do you make a game about a habit instead of an enemy?
@@ -73,27 +72,10 @@
                     <div>
 
                         <p>
-                            Most games about addiction focus on obvious villains,
-                            dramatic consequences, or binary good-versus-bad choices.
-                            Social media use is more complicated than that.
+                            The game is essentially a visual novel. Design focuses on the artistry of the environment, 
+                            and contrasting a calm, peaceful environment with a messy one.
+                            The main design mechanics center around 3D modelling (Blender, Autodesk Maya) and VFX. 
                         </p>
-
-                        <p>
-                            The challenge was creating an experience that could
-                            communicate frustration, dependency, loneliness,
-                            validation-seeking, and habit formation without reducing
-                            the issue to "phones are bad."
-                        </p>
-
-                        <p>
-                            The central design question became:
-                        </p>
-
-                        <div class="highlight">
-                            How do you build mechanics that encourage reflection
-                            instead of punishment?
-                        </div>
-
                     </div>
 
                     <div class="placeholder">
@@ -118,16 +100,14 @@
                     <div class="result-card">
                         <h3>Narrated Storytelling</h3>
                         <p>
-                            Voiceover and written narrative guide players through
-                            personal experiences and research-backed concepts.
+                            For the demo, I used <a href="https://mulameow.itch.io/simple-animalese-generator">Mulameow's Animalese Generator</a> as the voiceover.
                         </p>
                     </div>
 
                     <div class="result-card">
                         <h3>Environmental Interaction</h3>
                         <p>
-                            Players interact with everyday household objects rather
-                            than combat systems or traditional objectives.
+                            Players interact with everyday household objects and can throw them around, stack them, or clean them up.
                         </p>
                     </div>
 
@@ -162,21 +142,12 @@
 
                         <p>
                             The game takes place primarily in a small cabin filled
-                            with ordinary activities: dishes, books, music, writing,
-                            and conversations.
-                        </p>
-
-                        <p>
-                            This was a deliberate design choice. Many games create
-                            engagement through escalation. GET THE CAT A SCRATCHING
-                            POST instead explores how meaningful experiences can
-                            emerge from ordinary moments.
+                            with simple activities: dishes, books, music.
                         </p>
 
                         <p>
                             The environment itself becomes part of the argument:
-                            if social media is meeting a need, what alternatives
-                            might exist in the physical world?
+                            Moving to a cabin in the woods where nobody can get a hold of you might be peaceful, but it also might be anxiety inducing and isolating.
                         </p>
 
                     </div>
@@ -188,23 +159,6 @@
                 </div>
 
             </section>
-
-
-            <section id="development">
-
-                <h2>Development Highlights</h2>
-
-                <ul>
-                    <li>Built in Unity.</li>
-                    <li>Designed and programmed as a solo project.</li>
-                    <li>Combines narrative design, gameplay programming, UI design, and writing.</li>
-                    <li>Custom interaction systems for object manipulation and environmental storytelling.</li>
-                    <li>Research integrated directly into gameplay and narrative content.</li>
-                    <li>Designed to be approachable for players who would not normally engage with academic material.</li>
-                </ul>
-
-            </section>
-
 
             <section id="takeaways">
 
