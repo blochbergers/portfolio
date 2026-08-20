@@ -1,3 +1,4 @@
+import pdf from "./assets/gtcasp.pdf";
 <template>
     <div class="page gtcasp-page">
 
