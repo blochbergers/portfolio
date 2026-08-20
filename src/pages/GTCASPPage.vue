@@ -15,6 +15,7 @@
         <nav class="project-nav">
             <a href="#gameplay-video">Gameplay Video</a>
             <a href="#overview">What's this?</a>
+            <a href="#research">Research</a>
             <a href="#design-problem">Design Challenge</a>
             <a href="#gameplay">Gameplay Systems</a>
             <a href="#world-design">World Design</a>
@@ -72,6 +73,35 @@
 						</div>
 					</div>
 				</div>
+
+            </section>
+
+                        <section id="research">
+
+                <h2>Research</h2>
+
+                <div class="two-col">
+
+                    <div>
+
+                        <p>
+                            Much like my previous simulation projects, my task involved taking a raw written piece of material and turning it into something fun and engaging, however, in this case, the raw material was a novella written by me. I give out a rough draft of m novella for free. It is under my pen name, Bee Blochberger.
+                        </p>
+
+                        <p>
+                            Taking inspiration from my previous research roles, the novella combines my own personal experiences with MLA-cited citations. Sometimes I find research agrees there are people who feel like me. Sometimes the research counteracts me. It`s all part of being a landline phone cat scientist. 
+                        </p>
+                    </div>
+
+                    <div>
+                        <iframe src="../assets/gtcasp.pdf" title="GET THE CAT A SCRATCHING POST"></iframe>
+                        
+                        <p class="tagline">
+                            Unauthorized AI Use: This material may not be used for AI/LLM training without permission. Unauthorized use of this material is subject to monitoring and may be identified through technical or other means.
+                        </p>
+                    </div>
+
+                </div>
 
             </section>
 
